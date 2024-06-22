@@ -1,5 +1,7 @@
 # Aplikasi Peminjaman Ruangan STIS
 
+Aplikasi Peminjaman Ruangan STIS adalah aplikasi yang memudahkan mahasiswa Politeknik Statistika STIS untuk melakukan peminjaman ruangan. Aplikasi ini dilengkapi fitur export surat dalam bentuk pdf sehingga memudahkan user/mahasiswa untuk menunjukkan bukti peminjaman ruangan.
+
 ## Alternative Import
 
 Gunakan file `PinjamRuangan` yang terdapat pada folder `Alternative` untuk import dari Netbeans.
