@@ -9,7 +9,7 @@ Gunakan file `PinjamRuangan` yang terdapat pada folder `Alternative` untuk impor
 - Klik `File`.
 - Pilih `Import Project`.
 - Pilih `From Zip...`.
-- Buka folder `Alternative` lalu Ubah `File of Type` menjadi `All Files`.
+- Buka folder `Alternative` lalu ubah `File of Type` menjadi `All Files`.
 - Pilih `PinjamRuangan`.
 - Klik `Open`.
 
